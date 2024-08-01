@@ -4,5 +4,6 @@ public class a{
     public a(String aID, String aName){
         this.aID=aID;
         this.aName=aName;
+        ahhihihi
     }
 }
